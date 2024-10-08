@@ -1,5 +1,7 @@
 # Simulation of traffic flow and traffic signal deployment scenarios
 
+[site](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-022-01448-6/MediaObjects/41597_2022_1448_Fig2_HTML.png?as=webp)
+
 ### Scenario 1: Rule-Based or Fixed Timing 
 - Fixed green-red cycle length, e.g., 60 seconds each.
 - No adaptation based on traffic density.
